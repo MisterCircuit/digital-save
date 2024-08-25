@@ -1,4 +1,4 @@
-# digital-save
+# About digital-save
 A save for storing valuables using fingerprint access for a solenoid lock
 There is a keypad for entering password if there is three failed authorised access
 GSM for alerting the user of authorised and unauthorised access
